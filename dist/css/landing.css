@@ -1,0 +1,34 @@
+.landing {
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+  text-align: center;
+  background:
+    radial-gradient(circle at 20% 15%, rgba(200, 139, 168, 0.14), transparent 34%),
+    var(--color-bg);
+}
+
+.landing__content { width: min(100%, 620px); }
+
+.brand-logo {
+  width: min(180px, 45vw);
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+
+.landing h1 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.4rem, 9vw, 5rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+}
+
+.landing__intro {
+  max-width: 480px;
+  margin: 1.2rem auto 2rem;
+  color: var(--color-muted);
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
