@@ -1,0 +1,9 @@
+{
+  "name": "ia-jewels-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "I&A Jewels mobile-first digital catalogue.",
+  "scripts": {
+    "build": "node scripts/build-products.js"
+  }
+}

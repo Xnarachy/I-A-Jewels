@@ -1,0 +1,20 @@
+{
+  "build_output": "Build successful: 7 products, 7 product pages.",
+  "checks": {
+    "build_exit_code": 0,
+    "landing": true,
+    "catalogue": true,
+    "product_pages": 7,
+    "sitemap": true,
+    "robots": true,
+    "netlify_config": true,
+    "unresolved_template_tokens": [],
+    "seo_failures": [],
+    "missing_internal_product_links": []
+  },
+  "notes": [
+    "Demo SVG assets are placeholders and must be replaced before production.",
+    "siteUrl and whatsappNumber in src/data/config.js must be replaced with real values.",
+    "Final logo and brand colours should be aligned with the approved I&A Jewels assets."
+  ]
+}
