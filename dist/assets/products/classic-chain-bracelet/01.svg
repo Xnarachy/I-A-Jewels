@@ -1,1 +1,6 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f7edf2"/>
+  <text x="60" y="100" font-family="Georgia, serif" font-size="36" fill="#7a4565">Classic Chain Bracelet</text>
+  <circle cx="320" cy="420" r="80" fill="none" stroke="#b38a5a" stroke-width="22"/><circle cx="480" cy="420" r="80" fill="none" stroke="#b38a5a" stroke-width="22"/>
+  <text x="60" y="900" font-family="Arial, sans-serif" font-size="22" fill="#756e74">DEVELOPMENT PLACEHOLDER</text>
+</svg>
